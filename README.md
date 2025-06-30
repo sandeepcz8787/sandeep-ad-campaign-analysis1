@@ -40,6 +40,9 @@ Campaign performance summary
 CTR and conversion trends by demographic
 
 Ad spend efficiency insights
+
+
+
 ![Total-Conversion-Approved-Conversion-and-Impressions-by-Day-Plot](https://github.com/user-attachments/assets/79c40978-5c97-45b9-b68f-ef3d2008f24a)
 
 ![Approved-Conversion-Amount-SPent-and-Clicks-by-Age-Range-and-Campaign-Range-Plot](https://github.com/user-attachments/assets/c9dc084d-937e-4d36-a738-7189e9fd1b09)
