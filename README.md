@@ -14,8 +14,6 @@ Python: Pandas, Matplotlib, Seaborn
 
 Power BI: Interactive dashboards and segment analysis
 
-Excel (optional): For data cleaning or initial review
-
 SQL logic: For calculating metrics like CTR and conversions
 
 📈 Key Metrics Calculated
