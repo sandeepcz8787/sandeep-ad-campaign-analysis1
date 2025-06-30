@@ -44,7 +44,9 @@ CTR and conversion trends by demographic
 Ad spend efficiency insights
 ![Total-Conversion-Approved-Conversion-and-Impressions-by-Day-Plot](https://github.com/user-attachments/assets/79c40978-5c97-45b9-b68f-ef3d2008f24a)
 
-(Screenshots included or link to dashboard if published)
+![Approved-Conversion-Amount-SPent-and-Clicks-by-Age-Range-and-Campaign-Range-Plot](https://github.com/user-attachments/assets/c9dc084d-937e-4d36-a738-7189e9fd1b09)
+
+![Total-Conversion-Approved-Conversion-and-Clicks-by-Day-Plot](https://github.com/user-attachments/assets/c0e6b72e-0f62-40a1-9a6f-6c3119c34f5f)
 
 ✅ Outcome
 This project simulates a real-world campaign optimization task and shows my ability to:
